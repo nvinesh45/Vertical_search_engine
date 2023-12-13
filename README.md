@@ -1,4 +1,4 @@
-# Vertical_search_engine
+# Taste Track
 Taste Track is a specialized vertical search engine particular to food recipes. 
 
 Features
